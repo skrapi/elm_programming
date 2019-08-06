@@ -1,3 +1,4 @@
+-- https://korban.net/posts/elm/2019-11-17-elm-ui-introduction/
 module Main exposing (main)
 
 import Element exposing (..)
